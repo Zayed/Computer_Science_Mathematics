@@ -1,5 +1,5 @@
 /*
-The Josephus Problem [O(n) Solution].cpp
+The Josephus Problem [O(n/2) Solution].cpp
 Problem Description: We Start with n people numbered 1 to n around a circle,  and we eliminate every
 second remaining person until only one survives.
 */
